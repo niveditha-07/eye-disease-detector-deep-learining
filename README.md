@@ -22,7 +22,8 @@ So, a virtual environment with name project will be created
 <b>Step - 2: Activate the virtual environment</b>
 
 <code>project\Scripts\activate</code> <br/> <br/>
-So, virtual environment will be activated
+So, virtual environment will be activated <br/>
+You, have to execute those packages <br/>
 
 <b>Step - 3: Clone this repo by using the following command</b>
 
