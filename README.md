@@ -3,9 +3,11 @@ Official Repository created for Eye Disease Detector of a team from Malineni Lak
 
 # Softwares
 1. Ananconda Navigator (www.anaconda.com)
+2. Google Colab (https://colab.research.google.com)
 
 # Packages
 pip install flask <br/>
+pip install pandas <br/>
 pip install tensorflow <br/>
 
 # Process
